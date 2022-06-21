@@ -1,5 +1,5 @@
 import statistics
-qtdConjunto = int(input("Qual o tamanho do conjunto?"))
+qtdConjunto = int(input("Qual o tamanho do conjunto: "))
 temperaturas = []
 
 for  i in range(1,qtdConjunto+1) :
